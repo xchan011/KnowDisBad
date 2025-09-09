@@ -1,0 +1,157 @@
+original_name,translated_name,HCAT4_code,HCAT4_name
+Brache mit Honigpflanzen ÖVF,Fallow land with honey plants ÖVF,3311100000,fallow_land_not_crop
+Mischkulturen in Reihenanbau,mixed crops in row cultivation,3310000000,arable_crops
+Winter-Dinkel,Winter spelt,3310110001,winter_spelt
+Feldraine ÖVF (CC-LE),Field margins EFA (CC-LE),3390000000,not_known_and_other
+Winterweichweizen,winter soft wheat,3310101001,winter_common_soft_wheat
+Sommerweichweizen,summer soft wheat,3310101002,spring_common_soft_wheat
+Hutungen,Pastures,3320100000,permanent_grassland
+Wintermenggetreide,Winter mixed grain,3310111001,winter_mixed_grains
+Winterhafer,Winter Oats,3310105001,winter_oats
+"Winterrübsen (Rübsen, Rübsamen, Rübsaat)",Winter turnip rape (Brassica Rapa),3310604011,winter_rapeseed_rape
+Sommer-Dinkel,Summer Spelt,3310110002,spring_spelt
+Sommerroggen,Summer rye,3310103002,spring_rye
+Durum/Sommerhartweizen,Summer durum wheat,3310102002,spring_durum_hard_wheat
+Durum/Winterhartweizen,Winter Durum Wheat,3310102001,winter_durum_hard_wheat
+Winterroggen,winter rye,3310103001,winter_rye
+Riesenweizengras/Szarvasi-Gras,giant wheat grass / szarvasi grass,3320201010,elymus
+Sommergerste,summer barley,3310104002,spring_barley
+KUP,Coppice with short rotation,3360000000,tree_wood_forest
+Rispenhirse,Proso Millet,3310109000,millet
+Kolbenhirse,Foxtail millet,3310109000,millet
+Wintergerste,winter barley,3310104001,winter_barley
+Rebschulfläche,Vine nursery area,3330600000,vineyards_wine_vine_rebland_grapes
+Sommerhafer,Summer oats,3310105002,spring_oats
+"Wicken (Pannonische, Zottelwicke, Saatwicke)","Vetches (Pannonian Vetch, Hairy Vetch, Seed Vetch)",3310202050,vetches
+Leindotter,Camelina sativa,3310615000,camelina
+Körnermais/CCM,Grain maize/CCM,3310106000,maize_corn_popcorn
+Silomais,Silage maize,3310106000,maize_corn_popcorn
+Saatmais,Seed maize,3310106000,maize_corn_popcorn
+Mais (Biogasanlage),Maize (biogas plant),3310106000,maize_corn_popcorn
+Zuckermais,Sweet corn,3310106000,maize_corn_popcorn
+Sommermenggetreide,Summer mixed grain,3310111002,spring_mixed_grains
+Sudangras,Sudangrass,3310116000,sorghum
+Wintertriticale,winter triticale,3310108001,winter_triticale
+Sommertriticale,Summer triticale,3310108002,spring_triticale
+Sommer-Emmer/ -Einkorn,summer emmer/einkorn,3310112002,spring_emmer
+Winter-Emmer/ -Einkorn,Winter Emmer,3310112001,winter_emmer
+Körnersorghum,grain sorghum,3310116000,sorghum
+Ackerrandstreifen,field margins,3390000000,not_known_and_other
+"Tümpel, Sölle, Dolinen ÖVF (CC-LE)","Pools, ponds, sinkholes ÖVF (CC-LE)",3390000000,not_known_and_other
+Versuchsflächen mit mehreren beihilfefähigen Kulturarten,Experimental plots with multiple eligible crop types,3310000000,arable_crops
+Baumreihe ÖVF (CC-LE),Tree row ÖVF (CC-LE),3360000000,tree_wood_forest
+Steinklee,Sweet clover,3310202040,melilot
+Alle anderen Getreidearten,All other cereal crops,3310100000,cereal
+Leguminosenmischung (stickstoffbindend),legume mixture (nitrogen fixing),3310200000,legumes
+Linsen (Speise-Linse),lentils (for consumption),3310201070,lentils
+"Kleemischung aus NC 421, 427, 431 (stickstoffbindend)","Clover mixture of NC 421, 427, 431 (nitrogen-binding)",3310202030,clover
+"Bockshornklee, Schabziger Klee","Fenugreek, blue fenugreek",3310201060,fenugreek
+Erbsen/Bohnen - Gemenge,mixed peas and beans,3310200000,legumes
+"Hornklee, Hornschotenklee",Bird’s foot trefoil,3310216000,birdsfoot_treifoil
+Seradella,serradella,3310202020,serradella
+Gemenge Leguminosen/Getreide,mixed legumes and cereals,3310200000,legumes
+Ackerbohnen/Puffbohnen/Pferdebohnen/Dicke Bohnen,dry beans,3310201010,beans
+Platterbse,Flat pea,3310201080,peas
+Sojabohnen,soybeans,3310201030,soy_soybeans
+Erbsen zur Körnergewinnung,peas for grain production,3310201080,peas
+"Gemüseerbse (Markerbse, Schalerbse, Zuckererbse)","vegetable peas (field peas, dry peas, sugar peas)",3310201080,peas
+Lupinen,lupins,3310201090,lupins
+Esparsette,Esparsette (Onobrychis viciifolia),3310213000,onobrychis_sainfoins
+Klee-Luzerne-Gemisch,mixture of clover and alfalfa/lucerne,3310200000,legumes
+"Luzerne, Hopfenklee/Gelbklee, Bastardluzerne/Sandluzerne","lucerne, hop clover/yellow clover, bastard lucerne/sand lucerne",3310202010,alfalfa_lucerne
+Rot-/Weiß-/Alexandriner-/Inkarnat-/Erd-/Schweden-/Perser Klee,red clover,3310202030,clover
+Sonstige Hülsenfrüchte,other legumes,3310200000,legumes
+Tabak,tobacco,3310601000,tobacco
+Hopfen,hops,3310602000,hops
+"Hopfen, vorübergehend stillgelegt","hops, temporarily idle",3310602000,hops
+Winterraps,Winter Rapeseed,3310604011,winter_rapeseed_rape
+Sommerraps,summer rapeseed,3310604013,summer_rapeseed_rape
+Sonnenblumen,sunflowers,3310604020,sunflower
+Sonstige Ölfrüchte,Other Oilseed Crops,3310604000,oilseed_crops
+Färberdistel/Saflor,safflower,3310839000,safflower
+Öllein/Faserflachs,Oil flax/fiber flax,3310607000,flax_linseed
+Hanf,hemp,3310610000,hemp_cannabis
+Küchenkräuter/Heil-und Gewürzpflanzen,kitchen herbs/healing and spice plants,3310612000,aromatic_medicinal_culinary_plants_spices_herbs
+Silphium (Durchwachsene Silphie),silphium,3310844000,silphium_rosinweeds
+Brennnesseln,nettles,3310612250,nettles
+Chinaschilf (Miscanthus),silvergrass,3310617030,miscanthus_silvergrass
+"Staudenknöterich, Igniscum",Igniscum,3310617010,igniscum_candy
+Sonstige Energiepflanze (Acker),Other energy crops (field),3310617000,energy_crops
+Virginiamalve/Sida,Virginia Mallow,3310617020,sida_virginia_mallow
+andere Handelsgewächse,other commercial plants,3310600000,industrial_nonfood_crops
+Gemüse,vegetables,3310700000,fresh_vegetables
+Topinambur,Jerusalem artichoke,3310705000,topinambur_jerusalem_artichoke
+Gemüse in Substrat/ohne Bodenkontakt,vegetables in substrate/without soil contact,3310700000,fresh_vegetables
+"Zichorien/Wegwarten (Chicoree, Radiccio, kraus-/ganzblättrige Endivie)","chicory, radicchio, curly and whole-leaf endive",3310717010,chicory_chicories
+Pilzbeet- und Gemüse in Gebäuden (nicht im Gewächshaus),mushrooms and vegetables in buildings (not in greenhouse),3390000000,not_known_and_other
+Erdbeeren,strawberries,3310701000,strawberries
+sonstige Schalenfrüchte,other nuts,3330300000,nuts
+Quinoa,quinoa,3310703030,quinoa
+Amarant (Amarant/Fuchsschwanz),amaranth,3310703010,amaranth
+Buchweizen,buckwheat,3310703020,buckwheat
+Spargel,asparagus,3310706000,asparagus
+Rhabarber,rhubarb,3310709000,rhubarb
+Artischocke,artichoke,3310713000,artichoke
+Futterrüben (Runkelrüben),fodder beets (red beets),3310719020,mangelwurzel_beets
+Wurzelzichorien,Root chicory,3310717010,chicory_chicories
+Zuckerrüben,sugar beets,3310719010,sugar_beet
+Kartoffeln (Speise),potatoes (for eating),3310720000,potatoes
+Pflanzkartoffeln,planting potatoes,3310720000,potatoes
+Stärkekartoffeln,starchy potatoes,3310720000,potatoes
+Süßkartoffeln,sweet potatoes,3310721000,sweet_potatoes
+Kern- und Steinobst,stone and pitted fruits,3330100000,orchards_fruits
+Brache mit jährlicher Neueinsaat von Blühmischungen (inkl. überjähriger FAKT-Blühmischungen),Fallow land with annual reseeding of flowering mixtures (incl. perennial FAKT flowering mixtures),3310800000,flowers_ornamental_plants
+Zierpflanzen,ornamental plants,3310800000,flowers_ornamental_plants
+Blühfläche,flowering area,3310800000,flowers_ornamental_plants
+Zierpflanzen in Substrat/ohne Bodenkontakt,ornamental plants in substrate/without soil contact,3310800000,flowers_ornamental_plants
+Ackerland aus der Erzeugung genommen,fallow land not crop,3311100000,fallow_land_not_crop
+Streifen am Waldrand (ohne Produktion) ÖVF,stripes at the edge of the forest (without production) ÖVF,3390000000,not_known_and_other
+Mehrjährige Brache mit Honigpflanzen ÖVF,perennial fallow land with honey plants,3311100000,fallow_land_not_crop
+Biotope ohne landwirtschaftliche Nutzung (AUKM),fallow land without agricultural use,3311100000,fallow_land_not_crop
+Einjährige Brache mit Honigpflanzen nicht ÖVF,One-year fallow land with honey plants not ÖVF,3311100000,fallow_land_not_crop
+Stillgelegte Ackerflächen nach LPR,Fallow land after LPR,3311100000,fallow_land_not_crop
+Mehrjährige Brache mit Honigpflanzen nicht ÖVF,Long-term fallow land with honey plants not ÖVF,3311100000,fallow_land_not_crop
+Nicht mehr landwirtschaftliche genutzte betriebsprämienfähige Fläche,land no longer used for agricultural crops,3370000000,unmaintained
+"Hecken, Knicks ÖVF (CC-LE)","hedges, knicks organic farming association (CC-LE)",3390000000,not_known_and_other
+Feldrand/Pufferstreifen ÖVF AL,field margin/buffer strip organic farming association,3390000000,not_known_and_other
+Feldgehölze ÖVF (CC-LE),field hedges ÖVF (CC-LE),3390000000,not_known_and_other
+Feldrand/Pufferstreifen ÖVF GL,field margin/buffer strip organic farming association GL,3390000000,not_known_and_other
+Dauerkultur aus der Erzeugung genommen,permanent crops,3330000000,permanent_crops_perennial
+"Phacelia (als Hauptkultur, z.B. Saatgutvermehrung)","Phacelia (as main crop, e.g. seed multiplication)",3311300000,phacelia
+Ackergras,field grass,3320000000,grassland_grass
+Wiesen (einschl. Streuobstwiesen),meadows (including orchard grass),3320100000,permanent_grassland
+"Kleegras, Luzerne-Gras-Gemenge","Clover, Alfalfa-grass mixture",3310200000,legumes
+Mähweiden,mown meadows,3320100000,permanent_grassland
+Streuwiesen,meadows,3320100000,permanent_grassland
+Koppelschafweiden,Sheep Pasture Meadows,3320100000,permanent_grassland
+Grassamenvermehrung,grass seed multiplication,3320200000,temporary_grassland
+Rollrasen,lawn,3320201070,sod_turf
+Rohrglanzgras,Reed grass,3320209900,other_poaceae_grasses
+Dauergrünland aus der Erzeugung genommen,Permanent grassland taken out of production,3320100000,permanent_grassland
+Wiesen (Grünlandneueinsaat weniger als 5 Jahre zurückliegend),Meadows (grassland reseeded less than 5 years ago),3320100000,permanent_grassland
+Biotope mit landwirtschaftlicher Nutzung - Dauergrünland/Flächen mit LPR-Extensivierungsvertrag,Biotopes with agricultural use - Permanent grassland/areas with LPR extensification contract,3320100000,permanent_grassland
+Stillgelegte Dauergrünlandflächen nach LPR,Abandoned Permanent Grassland according to LPR,3320100000,permanent_grassland
+Weiden (Grünlandneueinsaat weniger als 5 Jahre zurückliegend),Pastures (grassland reseeded less than 5 years ago),3320100000,permanent_grassland
+Mähweiden (Grünlandneueinsaat weniger als 5 Jahre zurückliegend),Mown pastures (grassland reseeded less than 5 years ago),3320100000,permanent_grassland
+Sommerschafweiden,summer sheep pastures,3320100000,permanent_grassland
+Streuobst (ohne Wiesennutzung),orchards (without meadow use),3330100000,orchards_fruits
+unbestockte Obstbaufläche,unstocked orchard area,3330100000,orchards_fruits
+"Sonstige Obstanlagen (z.B. Holunder, Sanddorn)","other fruit orchards (e.g. elderberry, sea buckthorn)",3330100000,orchards_fruits
+"Beerenobst (z.B. Johannis-, Stachel-, Himbeeren)","Berries (e.g. currants, gooseberries, raspberries)",3330200000,berries_berry_species
+Beerenobst zur Vermehrung (in Baumschulen),berry crops for propagation (in nurseries),3330200000,berries_berry_species
+Walnüsse,walnuts,3330306000,walnuts
+Haselnüsse,hazelnuts,3330302000,hazelnuts_hazel
+Bestockte Rebfläche,Vineyards with wine grapes,3330600000,vineyards_wine_vine_rebland_grapes
+Unbestockte Rebfläche,unstocked vineyard area,3330600000,vineyards_wine_vine_rebland_grapes
+"Baumschulen, nicht für Beerenobst","tree nurseries, not for berry crops",3330700000,nurseries_nursery
+Sonstige Dauerkulturen,Other Permanent Crops,3330000000,permanent_crops_perennial
+Basis-/Betriebsprämienfähige aufgeforstete Flächen nach Erstaufforstung-/Einkommensverlustprämie,Areas reforested after first afforestation/income loss premium,3360100000,afforestation_reforestation
+Weiden,Pastures,3320100000,permanent_grassland
+Feuchtgebiete ÖVF (CC-LE),wetlands,3390000000,not_known_and_other
+Tafeltrauben,table grapes,3330600000,vineyards_wine_vine_rebland_grapes
+Fels-und Steinriegel ÖVF (CC-LE),Rock and Stone Rye (CC-LE),3390000000,not_known_and_other
+Mischkulturen mit Saatgutmischung,mixed crops with seed mixture,3311000000,seed_seedlings
+Almen und Alpen,Alpine meadows,3320100000,permanent_grassland
+"Sommerrübsen (Rübsen, Rübsamen, Rübsaat)",Summer turnip rape (Brassica Rapa),3310604013,summer_rapeseed_rape
+"Trockenmauer, Lesesteinwälle ÖVF (CC-LE)",dry stone walls,3390000000,not_known_and_other
+Pflanzenmischung mit Hanf,mix of crops with hemp,3310610000,hemp_cannabis

@@ -1,0 +1,782 @@
+[
+  {
+    "original_name": "Brache mit Honigpflanzen ÖVF",
+    "translated_name": "Fallow land with honey plants ÖVF",
+    "HCAT_name": "fallow_land_not_crop"
+  },
+  {
+    "original_name": "Mischkulturen in Reihenanbau",
+    "translated_name": "Mixed crops in row cultivation",
+    "HCAT_name": "mixed_grains"
+  },
+  {
+    "original_name": "Winter-Dinkel",
+    "translated_name": "Winter spelt",
+    "HCAT_name": "winter_spelt"
+  },
+  {
+    "original_name": "Feldraine ÖVF (CC-LE)",
+    "translated_name": "Field margins ÖVF (CC-LE)",
+    "HCAT_name": "other_arable_land_crops"
+  },
+  {
+    "original_name": "Winterweichweizen",
+    "translated_name": "Winter soft wheat",
+    "HCAT_name": "winter_common_soft_wheat"
+  },
+  {
+    "original_name": "Sommerweichweizen",
+    "translated_name": "Summer soft wheat",
+    "HCAT_name": "spring_common_soft_wheat"
+  },
+  {
+    "original_name": "Hutungen",
+    "translated_name": "Pastures",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Wintermenggetreide",
+    "translated_name": "Winter mixed grain",
+    "HCAT_name": "winter_mixed_grains"
+  },
+  {
+    "original_name": "Winterhafer",
+    "translated_name": "Winter oats",
+    "HCAT_name": "winter_oats"
+  },
+  {
+    "original_name": "Winterrübsen (Rübsen, Rübsamen, Rübsaat)",
+    "translated_name": "Winter turnips (turnips, turnip seeds, turnip seed)",
+    "HCAT_name": "turnips"
+  },
+  {
+    "original_name": "Sommer-Dinkel",
+    "translated_name": "Summer spelt",
+    "HCAT_name": "spring_spelt"
+  },
+  {
+    "original_name": "Sommerroggen",
+    "translated_name": "Summer rye",
+    "HCAT_name": "spring_rye"
+  },
+  {
+    "original_name": "Durum/Sommerhartweizen",
+    "translated_name": "Durum/summer durum wheat",
+    "HCAT_name": "spring_durum_hard_wheat"
+  },
+  {
+    "original_name": "Durum/Winterhartweizen",
+    "translated_name": "Durum/winter durum wheat",
+    "HCAT_name": "winter_durum_hard_wheat"
+  },
+  {
+    "original_name": "Winterroggen",
+    "translated_name": "Winter rye",
+    "HCAT_name": "winter_rye"
+  },
+  {
+    "original_name": "Riesenweizengras/Szarvasi-Gras",
+    "translated_name": "Giant wheatgrass/Szarvasi grass",
+    "HCAT_name": "winter_mixed_grains"
+  },
+  {
+    "original_name": "Sommergerste",
+    "translated_name": "Summer barley",
+    "HCAT_name": "spring_barley"
+  },
+  {
+    "original_name": "KUP",
+    "translated_name": "KUP",
+    "HCAT_name": "cereal"
+  },
+  {
+    "original_name": "Rispenhirse",
+    "translated_name": "Panicle millet",
+    "HCAT_name": "millet"
+  },
+  {
+    "original_name": "Kolbenhirse",
+    "translated_name": "Cob millet",
+    "HCAT_name": "millet"
+  },
+  {
+    "original_name": "Wintergerste",
+    "translated_name": "winter barley",
+    "HCAT_name": "winter_barley"
+  },
+  {
+    "original_name": "Rebschulfläche",
+    "translated_name": "Vine nursery area",
+    "HCAT_name": "nurseries_nursery"
+  },
+  {
+    "original_name": "Sommerhafer",
+    "translated_name": "Summer oats",
+    "HCAT_name": "spring_oats"
+  },
+  {
+    "original_name": "Wicken (Pannonische, Zottelwicke, Saatwicke)",
+    "translated_name": "Vetch (Pannonian vetch, hairy vetch, seed vetch)",
+    "HCAT_name": "vetches"
+  },
+  {
+    "original_name": "Leindotter",
+    "translated_name": "Gold-of-pleasure",
+    "HCAT_name": "winter_rye"
+  },
+  {
+    "original_name": "Körnermais/CCM",
+    "translated_name": "Grain corn/CCM",
+    "HCAT_name": "maize_corn_popcorn"
+  },
+  {
+    "original_name": "Silomais",
+    "translated_name": "Silage corn",
+    "HCAT_name": "maize_corn_popcorn"
+  },
+  {
+    "original_name": "Saatmais",
+    "translated_name": "Seed corn",
+    "HCAT_name": "maize_corn_popcorn"
+  },
+  {
+    "original_name": "Mais (Biogasanlage)",
+    "translated_name": "Corn (biogas plant)",
+    "HCAT_name": "maize_corn_popcorn"
+  },
+  {
+    "original_name": "Zuckermais",
+    "translated_name": "Sweet corn",
+    "HCAT_name": "maize_corn_popcorn"
+  },
+  {
+    "original_name": "Sommermenggetreide",
+    "translated_name": "Summer mixed grain",
+    "HCAT_name": "spring_mixed_grains"
+  },
+  {
+    "original_name": "Sudangras",
+    "translated_name": "Sudan grass",
+    "HCAT_name": "grassland_grass"
+  },
+  {
+    "original_name": "Wintertriticale",
+    "translated_name": "Winter triticale",
+    "HCAT_name": "winter_triticale"
+  },
+  {
+    "original_name": "Sommertriticale",
+    "translated_name": "summer triticale",
+    "HCAT_name": "spring_triticale"
+  },
+  {
+    "original_name": "Sommer-Emmer/ -Einkorn",
+    "translated_name": "Summer emmer/einkorn",
+    "HCAT_name": "not_known_and_other"
+  },
+  {
+    "original_name": "Winter-Emmer/ -Einkorn",
+    "translated_name": "Winter emmer/einkorn",
+    "HCAT_name": "winter_emmer"
+  },
+  {
+    "original_name": "Körnersorghum",
+    "translated_name": "Grain sorghum",
+    "HCAT_name": "sorghum"
+  },
+  {
+    "original_name": "Ackerrandstreifen",
+    "translated_name": "Field margins",
+    "HCAT_name": "fresh_vegetables"
+  },
+  {
+    "original_name": "Tümpel, Sölle, Dolinen ÖVF (CC-LE)",
+    "translated_name": "Ponds, pools, sinkholes ÖVF (CC-LE)",
+    "HCAT_name": "not_known_and_other"
+  },
+  {
+    "original_name": "VersuchsflÃ¤chen mit mehreren beihilfefÃ¤higen Kulturarten",
+    "translated_name": "Test areas with several eligible crop types",
+    "HCAT_name": "other_arable_land_crops"
+  },
+  {
+    "original_name": "Baumreihe ÖVF (CC-LE)",
+    "translated_name": "Tree row ÖVF (CC-LE)",
+    "HCAT_name": "tree_wood_forest"
+  },
+  {
+    "original_name": "Steinklee",
+    "translated_name": "Melilot",
+    "HCAT_name": "melilot"
+  },
+  {
+    "original_name": "Alle anderen Getreidearten",
+    "translated_name": "All other cereal types",
+    "HCAT_name": "other_cereals"
+  },
+  {
+    "original_name": "Leguminosenmischung (stickstoffbindend)",
+    "translated_name": "Legume mixture (nitrogen-fixing)",
+    "HCAT_name": "legumes"
+  },
+  {
+    "original_name": "Linsen (Speise-Linse)",
+    "translated_name": "Lentils (edible lentils)",
+    "HCAT_name": "lentils"
+  },
+  {
+    "original_name": "Kleemischung aus NC 421, 427, 431 (stickstoffbindend)",
+    "translated_name": "Clover mixture of NC 421, 427, 431 (nitrogen-fixing)",
+    "HCAT_name": "clover"
+  },
+  {
+    "original_name": "Bockshornklee, Schabziger Klee",
+    "translated_name": "Fenugreek, blue fenugreek",
+    "HCAT_name": "fenugreek"
+  },
+  {
+    "original_name": "Erbsen/Bohnen - Gemenge",
+    "translated_name": "Peas/beans - mixture",
+    "HCAT_name": "mixed_grains"
+  },
+  {
+    "original_name": "Hornklee, Hornschotenklee",
+    "translated_name": "Horn clover, horned clover",
+    "HCAT_name": "clover"
+  },
+  {
+    "original_name": "Seradella",
+    "translated_name": "serradella",
+    "HCAT_name": "serradella"
+  },
+  {
+    "original_name": "Gemenge Leguminosen/Getreide",
+    "translated_name": "Legume/cereal mixture",
+    "HCAT_name": "mixed_grains"
+  },
+  {
+    "original_name": "Ackerbohnen/Puffbohnen/Pferdebohnen/Dicke Bohnen",
+    "translated_name": "Field beans/broad beans/horse beans/broad beans",
+    "HCAT_name": "beans"
+  },
+  {
+    "original_name": "Platterbse",
+    "translated_name": "Lentils",
+    "HCAT_name": "lentils"
+  },
+  {
+    "original_name": "Sojabohnen",
+    "translated_name": "Soybeans",
+    "HCAT_name": "soy_soybeans"
+  },
+  {
+    "original_name": "Erbsen zur Körnergewinnung",
+    "translated_name": "Peas for grain production",
+    "HCAT_name": "peas"
+  },
+  {
+    "original_name": "Gemüseerbse (Markerbse, Schalerbse, Zuckererbse)",
+    "translated_name": "Vegetable peas (marker peas, shelling peas, sugar peas)",
+    "HCAT_name": "peas"
+  },
+  {
+    "original_name": "Lupinen",
+    "translated_name": "Lupins",
+    "HCAT_name": "lupins"
+  },
+  {
+    "original_name": "Esparsette",
+    "translated_name": "Sainfoin",
+    "HCAT_name": "onobrychis_sainfoins"
+  },
+  {
+    "original_name": "Klee-Luzerne-Gemisch",
+    "translated_name": "Clover-alfalfa mixture",
+    "HCAT_name": "legumes"
+  },
+  {
+    "original_name": "Luzerne, Hopfenklee/Gelbklee, Bastardluzerne/Sandluzerne",
+    "translated_name": "Alfalfa, hop clover/yellow clover, bastard alfalfa/sand alfalfa",
+    "HCAT_name": "legumes"
+  },
+  {
+    "original_name": "Rot-/Weiß-/Alexandriner-/Inkarnat-/Erd-/Schweden-/Perser Klee",
+    "translated_name": "Red/white/Alexandrian/carnation/earth/Swedish/Persian clover",
+    "HCAT_name": "clover"
+  },
+  {
+    "original_name": "Sonstige Hülsenfrüchte",
+    "translated_name": "Other legumes",
+    "HCAT_name": "other_legumes"
+  },
+  {
+    "original_name": "Tabak",
+    "translated_name": "Tobacco",
+    "HCAT_name": "tobacco"
+  },
+  {
+    "original_name": "Hopfen",
+    "translated_name": "Hops",
+    "HCAT_name": "hops"
+  },
+  {
+    "original_name": "Hopfen, vorübergehend stillgelegt",
+    "translated_name": "Hops, temporarily abandoned",
+    "HCAT_name": "hops"
+  },
+  {
+    "original_name": "Winterraps",
+    "translated_name": "Winter rapeseed",
+    "HCAT_name": "winter_rapeseed_rape"
+  },
+  {
+    "original_name": "Sommerraps",
+    "translated_name": "Summer rapeseed",
+    "HCAT_name": "summer_rapeseed_rape"
+  },
+  {
+    "original_name": "Sonnenblumen",
+    "translated_name": "Sunflowers",
+    "HCAT_name": "sunflower"
+  },
+  {
+    "original_name": "Sonstige Ölfrüchte",
+    "translated_name": "Other oilseeds",
+    "HCAT_name": "other_oilseed_crops"
+  },
+  {
+    "original_name": "Färberdistel/Saflor",
+    "translated_name": "Safflower",
+    "HCAT_name": "safflower"
+  },
+  {
+    "original_name": "Öllein/Faserflachs",
+    "translated_name": "Oil flax/fiber flax",
+    "HCAT_name": "flax_linseed"
+  },
+  {
+    "original_name": "Hanf",
+    "translated_name": "Hemp",
+    "HCAT_name": "hemp_cannabis"
+  },
+  {
+    "original_name": "Küchenkräuter/Heil-und Gewürzpflanzen",
+    "translated_name": "Kitchen herbs/medicinal and aromatic plants",
+    "HCAT_name": "aromatic_medicinal_culinary_plants_spices_herbs"
+  },
+  {
+    "original_name": "Silphium (Durchwachsene Silphie)",
+    "translated_name": "Silphium (cup plant)",
+    "HCAT_name": "silphium_rosinweeds"
+  },
+  {
+    "original_name": "Brennnesseln",
+    "translated_name": "Nettles",
+    "HCAT_name": "nettles"
+  },
+  {
+    "original_name": "Chinaschilf (Miscanthus)",
+    "translated_name": "Chinese silvergrass (Miscanthus)",
+    "HCAT_name": "miscanthus_silvergrass"
+  },
+  {
+    "original_name": "Staudenknöterich, Igniscum",
+    "translated_name": "Knotweed, Igniscum",
+    "HCAT_name": "other_arable_land_crops"
+  },
+  {
+    "original_name": "Sonstige Energiepflanze (Acker)",
+    "translated_name": "Other energy crops (field)",
+    "HCAT_name": "other_energy_crops"
+  },
+  {
+    "original_name": "Virginiamalve/Sida",
+    "translated_name": "Virginia mallow/Sida",
+    "HCAT_name": "sida_virginia_mallow"
+  },
+  {
+    "original_name": "andere Handelsgewächse",
+    "translated_name": "Other commercial crops",
+    "HCAT_name": "other_industrial_crops"
+  },
+  {
+    "original_name": "Gemüse",
+    "translated_name": "vegetables",
+    "HCAT_name": "legumes"
+  },
+  {
+    "original_name": "Topinambur",
+    "translated_name": "Jerusalem artichoke",
+    "HCAT_name": "topinambur_jerusalem_artichoke"
+  },
+  {
+    "original_name": "Gemüse in Substrat/ohne Bodenkontakt",
+    "translated_name": "Vegetables in substrate/without soil contact",
+    "HCAT_name": "fresh_vegetables"
+  },
+  {
+    "original_name": "Zichorien/Wegwarten (Chicoree, Radiccio, kraus-/ganzblättrige Endivie)",
+    "translated_name": "Chicory/chicory (chicory, radicchio, curly/whole-leaf endive)",
+    "HCAT_name": "chicory_chicories"
+  },
+  {
+    "original_name": "Pilzbeet- und Gemüse in Gebäuden (nicht im Gewächshaus)",
+    "translated_name": "Mushroom beds and vegetables in buildings (not in greenhouses)",
+    "HCAT_name": "mushrooms"
+  },
+  {
+    "original_name": "Erdbeeren",
+    "translated_name": "strawberries",
+    "HCAT_name": "strawberries"
+  },
+  {
+    "original_name": "sonstige Schalenfrüchte",
+    "translated_name": "Other nuts",
+    "HCAT_name": "other_nuts"
+  },
+  {
+    "original_name": "Quinoa",
+    "translated_name": "Quinoa",
+    "HCAT_name": "quinoa"
+  },
+  {
+    "original_name": "Amarant (Amarant/Fuchsschwanz)",
+    "translated_name": "Amaranth (amaranth/foxtail)",
+    "HCAT_name": "amaranth"
+  },
+  {
+    "original_name": "Buchweizen",
+    "translated_name": "Buckwheat",
+    "HCAT_name": "buckwheat"
+  },
+  {
+    "original_name": "Spargel",
+    "translated_name": "Asparagus",
+    "HCAT_name": "asparagus"
+  },
+  {
+    "original_name": "Rhabarber",
+    "translated_name": "Rhubarb",
+    "HCAT_name": "rhubarb"
+  },
+  {
+    "original_name": "Artischocke",
+    "translated_name": "artichoke",
+    "HCAT_name": "artichoke"
+  },
+  {
+    "original_name": "Futterrüben (Runkelrüben)",
+    "translated_name": "Fodder beets (sugar beets)",
+    "HCAT_name": "sugar_beet"
+  },
+  {
+    "original_name": "Wurzelzichorien",
+    "translated_name": "root chicory",
+    "HCAT_name": "chicory_chicories"
+  },
+  {
+    "original_name": "Zuckerrüben",
+    "translated_name": "sugar beets",
+    "HCAT_name": "sugar_beet"
+  },
+  {
+    "original_name": "Kartoffeln (Speise)",
+    "translated_name": "Potatoes (edible)",
+    "HCAT_name": "potatoes"
+  },
+  {
+    "original_name": "Pflanzkartoffeln",
+    "translated_name": "Seed potatoes",
+    "HCAT_name": "potatoes"
+  },
+  {
+    "original_name": "Stärkekartoffeln",
+    "translated_name": "Starch potatoes",
+    "HCAT_name": "potatoes"
+  },
+  {
+    "original_name": "Süßkartoffeln",
+    "translated_name": "Sweet potatoes",
+    "HCAT_name": "sweet_potatoes"
+  },
+  {
+    "original_name": "Kern- und Steinobst",
+    "translated_name": "Pome and stone fruit",
+    "HCAT_name": "other_orchards_fruits"
+  },
+  {
+    "original_name": "Brache mit jährlicher Neueinsaat von Blühmischungen (inkl. überjähriger FAKT-Blühmischungen)",
+    "translated_name": "Fallow land with annual reseeding of flower mixtures (including perennial FAKT flower mixtures)",
+    "HCAT_name": "flowers_ornamental_plants"
+  },
+  {
+    "original_name": "Zierpflanzen",
+    "translated_name": "ornamental plants",
+    "HCAT_name": "flowers_ornamental_plants"
+  },
+  {
+    "original_name": "Blühfläche",
+    "translated_name": "Flowering area",
+    "HCAT_name": "flowers_ornamental_plants"
+  },
+  {
+    "original_name": "Zierpflanzen in Substrat/ohne Bodenkontakt",
+    "translated_name": "ornamental plants in substrate/without soil contact",
+    "HCAT_name": "flowers_ornamental_plants"
+  },
+  {
+    "original_name": "Ackerland aus der Erzeugung genommen",
+    "translated_name": "Arable land taken out of production",
+    "HCAT_name": "fallow_land_not_crop"
+  },
+  {
+    "original_name": "Streifen am Waldrand (ohne Produktion) ÖVF",
+    "translated_name": "Strips at the edge of the forest (without production) ÖVF",
+    "HCAT_name": "fallow_land_not_crop"
+  },
+  {
+    "original_name": "Mehrjährige Brache mit Honigpflanzen ÖVF",
+    "translated_name": "Perennial fallow land with honey plants ÖVF",
+    "HCAT_name": "fallow_land_not_crop"
+  },
+  {
+    "original_name": "Biotope ohne landwirtschaftliche Nutzung (AUKM)",
+    "translated_name": "Biotopes without agricultural use (AUKM)",
+    "HCAT_name": "not_known_and_other"
+  },
+  {
+    "original_name": "Einjährige Brache mit Honigpflanzen nicht ÖVF",
+    "translated_name": "Annual fallow land with honey plants not ÖVF",
+    "HCAT_name": "fallow_land_not_crop"
+  },
+  {
+    "original_name": "Stillgelegte Ackerflächen nach LPR",
+    "translated_name": "Abandoned arable land according to LPR",
+    "HCAT_name": "fallow_land_not_crop"
+  },
+  {
+    "original_name": "Mehrjährige Brache mit Honigpflanzen nicht ÖVF",
+    "translated_name": "Perennial fallow land with honey plants not ÖVF",
+    "HCAT_name": "fallow_land_not_crop"
+  },
+  {
+    "original_name": "Nicht mehr landwirtschaftliche genutzte betriebsprämienfähige Fläche",
+    "translated_name": "Area no longer used for agriculture but eligible for single farm payments",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Hecken, Knicks ÖVF (CC-LE)",
+    "translated_name": "Hedges, hedgerows ÖVF (CC-LE)",
+    "HCAT_name": "other_arable_land_crops"
+  },
+  {
+    "original_name": "Feldrand/Pufferstreifen ÖVF AL",
+    "translated_name": "Field margins/buffer strips ÖVF AL",
+    "HCAT_name": "other_arable_land_crops"
+  },
+  {
+    "original_name": "Feldgehölze ÖVF (CC-LE)",
+    "translated_name": "Field copses ÖVF (CC-LE)",
+    "HCAT_name": "other_arable_land_crops"
+  },
+  {
+    "original_name": "Feldrand/Pufferstreifen ÖVF GL",
+    "translated_name": "Field margins/buffer strips ÖVF GL",
+    "HCAT_name": "other_arable_land_crops"
+  },
+  {
+    "original_name": "Dauerkultur aus der Erzeugung genommen",
+    "translated_name": "Permanent crops taken out of production",
+    "HCAT_name": "permanent_crops_perennial"
+  },
+  {
+    "original_name": "Phacelia (als Hauptkultur, z.B. Saatgutvermehrung)",
+    "translated_name": "Phacelia (as main crop, e.g., seed propagation)",
+    "HCAT_name": "phacelia"
+  },
+  {
+    "original_name": "Ackergras",
+    "translated_name": "Arable grass",
+    "HCAT_name": "grassland_grass"
+  },
+  {
+    "original_name": "Wiesen (einschl. Streuobstwiesen)",
+    "translated_name": "Meadows (including orchard meadows)",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Kleegras, Luzerne-Gras-Gemenge",
+    "translated_name": "Clover grass, alfalfa-grass mixture",
+    "HCAT_name": "legumes"
+  },
+  {
+    "original_name": "Mähweiden",
+    "translated_name": "Mowing pastures",
+    "HCAT_name": "temporary_grassland"
+  },
+  {
+    "original_name": "Streuwiesen",
+    "translated_name": "Litter meadows",
+    "HCAT_name": "grassland_grass"
+  },
+  {
+    "original_name": "Koppelschafweiden",
+    "translated_name": "Paddock sheep pastures",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Grassamenvermehrung",
+    "translated_name": "Grass seed propagation",
+    "HCAT_name": "grassland_grass"
+  },
+  {
+    "original_name": "Rollrasen",
+    "translated_name": "Turf",
+    "HCAT_name": "sod_turf"
+  },
+  {
+    "original_name": "Rohrglanzgras",
+    "translated_name": "Reed canary grass",
+    "HCAT_name": "canary_seed_canaryseed"
+  },
+  {
+    "original_name": "Dauergrünland aus der Erzeugung genommen",
+    "translated_name": "Permanent grassland taken out of production",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Wiesen (Grünlandneueinsaat weniger als 5 Jahre zurückliegend)",
+    "translated_name": "Meadows (grassland reseeding less than 5 years ago)",
+    "HCAT_name": "temporary_grassland"
+  },
+  {
+    "original_name": "Biotope mit landwirtschaftlicher Nutzung - Dauergrünland/Fl√§chen mit LPR-Extensivierungsvertrag",
+    "translated_name": "Biotopes with agricultural use - Permanent grassland/areas with LPR extensification contract",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Stillgelegte Dauergrünlandflächen nach LPR",
+    "translated_name": "Permanent grassland areas set aside according to LPR",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Weiden (Grünlandneueinsaat weniger als 5 Jahre zurückliegend)",
+    "translated_name": "Pastures (grassland newly sown less than 5 years ago)",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Mähweiden (Grünlandneueinsaat weniger als 5 Jahre zurückliegend)",
+    "translated_name": "Mown pastures (grassland newly sown less than 5 years ago)",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Sommerschafweiden",
+    "translated_name": "Summer sheep pastures",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Streuobst (ohne Wiesennutzung)",
+    "translated_name": "Orchards (without meadow use)",
+    "HCAT_name": "other_orchards_fruits"
+  },
+  {
+    "original_name": "unbestockte Obstbaufläche",
+    "translated_name": "unstocked fruit-growing areas",
+    "HCAT_name": "other_orchards_fruits"
+  },
+  {
+    "original_name": "Sonstige Obstanlagen (z.B. Holunder, Sanddorn)",
+    "translated_name": "Other fruit plantations (e.g., elderberry, sea buckthorn)",
+    "HCAT_name": "other_orchards_fruits"
+  },
+  {
+    "original_name": "Beerenobst (z.B. Johannis-, Stachel-, Himbeeren)",
+    "translated_name": "berry fruits (e.g., currants, gooseberries, raspberries)",
+    "HCAT_name": "berries_berry_species"
+  },
+  {
+    "original_name": "Beerenobst zur Vermehrung (in Baumschulen)",
+    "translated_name": "Berry fruits for propagation (in nurseries)",
+    "HCAT_name": "other_orchards_fruits"
+  },
+  {
+    "original_name": "Walnüsse",
+    "translated_name": "walnuts",
+    "HCAT_name": "nuts"
+  },
+  {
+    "original_name": "Haselnüsse",
+    "translated_name": "hazelnuts",
+    "HCAT_name": "hazelnuts_hazel"
+  },
+  {
+    "original_name": "Bestockte Rebfläche",
+    "translated_name": "Vineyards with vines",
+    "HCAT_name": "vineyards_wine_vine_rebland_grapes"
+  },
+  {
+    "original_name": "Unbestockte Rebfläche",
+    "translated_name": "Vineyards without vines",
+    "HCAT_name": "vineyards_wine_vine_rebland_grapes"
+  },
+  {
+    "original_name": "Baumschulen, nicht für Beerenobst",
+    "translated_name": "Nurseries, not for berry fruit",
+    "HCAT_name": "nurseries_nursery"
+  },
+  {
+    "original_name": "Sonstige Dauerkulturen",
+    "translated_name": "Other permanent crops",
+    "HCAT_name": "other_permanent_crops"
+  },
+  {
+    "original_name": "Basis-/Betriebsprämienfähige aufgeforstete Flächen nach Erstaufforstung-/Einkommensverlustprämie",
+    "translated_name": "Areas eligible for basic/single farm payments after initial afforestation/income loss payments",
+    "HCAT_name": "afforestation_reforestation"
+  },
+  {
+    "original_name": "Weiden",
+    "translated_name": "Pastures",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Feuchtgebiete ÖVF (CC-LE)",
+    "translated_name": "",
+    "HCAT_name": "not_known_and_other"
+  },
+  {
+    "original_name": "Tafeltrauben",
+    "translated_name": "table grapes",
+    "HCAT_name": "fresh_vegetables"
+  },
+  {
+    "original_name": "Fels-und Steinriegel ÖVF (CC-LE)",
+    "translated_name": "Rock and stone barriers ÖVF (CC-LE)",
+    "HCAT_name": "not_known_and_other"
+  },
+  {
+    "original_name": "Mischkulturen mit Saatgutmischung",
+    "translated_name": "Mixed crops with seed mixture",
+    "HCAT_name": "mixed_grains"
+  },
+  {
+    "original_name": "Almen und Alpen",
+    "translated_name": "Alpine pastures and alps",
+    "HCAT_name": "permanent_grassland"
+  },
+  {
+    "original_name": "Sommerrübsen (Rübsen, Rübsamen, Rübsaat)",
+    "translated_name": "Summer turnips (turnips, turnip seeds, turnip seed)",
+    "HCAT_name": "turnips"
+  },
+  {
+    "original_name": "Trockenmauer, Lesesteinwälle ÖVF (CC-LE)",
+    "translated_name": "Dry stone walls, stone walls ÖVF (CC-LE)",
+    "HCAT_name": "not_known_and_other"
+  },
+  {
+    "original_name": "Pflanzenmischung mit Hanf",
+    "translated_name": "Plant mixture with hemp",
+    "HCAT_name": "mixed_grains"
+  }
+]

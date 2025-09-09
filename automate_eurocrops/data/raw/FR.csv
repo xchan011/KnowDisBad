@@ -1,0 +1,343 @@
+original_name,hcat4_code,HCAT4_name,translated_name
+Roselière,3390000000,not_known_and_other,Reed bed
+Culture inconnue,3390000000,not_known_and_other,Other
+Bande admissible le long d'une forêt sans production,3390000000,not_known_and_other,Eligible strip along a forest without production
+Autre,3390000000,not_known_and_other,Other
+Bande tampon,3390000000,not_known_and_other,Buffer strip
+Bande admissible le long d'une forêt avec production,3390000000,not_known_and_other,Permissible strip along a forest with production
+Autre culture non précisée dans la liste (admissible),3390000000,not_known_and_other,Other
+Bordure de champ,3390000000,not_known_and_other,Field margin
+Marais salant,3390000000,not_known_and_other,Salt marsh
+"Parc d'élevage de monogastriques avec couvert dégradé, voire sol nu",3370000000,unmaintained,Monogastric stockyards with degraded cover or bare soil
+Jachère de 6 ans ou plus,3370000000,unmaintained,Fallow 6 years or more
+Jachère de 6 ans ou plus déclarée comme Surface d'intérêt écologique,3370000000,unmaintained,Fallow land 6 years or more declared as Ecological Focus Area (EFA)
+Chênaie entretenue par des porcins ou des petits ruminants,3360600000,oak,Oak grove maintained by pigs or small ruminants
+Surface boisée sur une ancienne terre agricole,3360000000,tree_wood_forest,Wooded area on former agricultural land
+Taillis à courte rotation,3360000000,tree_wood_forest,Short rotation coppice
+Horticulture ornementale sous abris,3350000000,greenhouse_foil_film,Ornamental horticulture under cover
+Culture sous serre hors sol,3350000000,greenhouse_foil_film,Off-ground cultivation in greenhouse
+Légume sous abris,3350000000,greenhouse_foil_film,Vegetable under cover
+Truffière (chênaie de plants mycorhizés),3340200000,truffle,Truffle patch (oak grove of mycorrhizal trees)
+Caroube,3330901000,carob,Carob
+Pépinière (plants laissés en terre moins d'un an),3330700000,nurseries_nursery,Nursery (plants left in the ground for less than a year)
+Pépinière,3330700000,nurseries_nursery,Nursery
+Restructuration du vignoble,3330600000,vineyards_wine_vine_rebland_grapes,Restructuring of the vineyard
+Vigne : raisins de table,3330600000,vineyards_wine_vine_rebland_grapes,Vine: table grapes
+Vigne: raisins de cuve non en production,3330600000,vineyards_wine_vine_rebland_grapes,Vine: wine grapes not in production
+Vigne : raisins de cuve,3330600000,vineyards_wine_vine_rebland_grapes,Vine: wine grapes
+Oliveraie ,3330500000,olive,Olive grove
+Agrume,3330400000,citrus,Citrus
+Noix,3330306000,walnuts,Walnuts
+Châtaigneraie entretenue par des porcins ou des petits ruminants,3330305000,sweet_chestnuts,Chestnut grove maintained by pigs or small ruminants
+Châtaigne,3330305000,sweet_chestnuts,Chestnut
+Pistache ,3330304000,pistachio,Pistachio
+Noisette,3330302000,hazelnuts_hazel,Hazelnut
+Petit fruit rouge,3330299000,other_berries_berry_species,Berry
+Avocat,3330116000,avocado,Avocado
+Prune d'Ente pour transformation,3330113000,plums,Plum for processing
+Poire Williams pour transformation,3330112000,pears,Williams pear for processing
+Pêche Pavie pour transformation,3330111000,peach,Pavia peaches for processing
+Cerise bigarreau pour transformation,3330104000,cherry_cherries,Bigarreau cherry for processing
+Verger,3330100000,orchards_fruits,Orchard
+Autre légume ou fruit pérenne,3330000000,permanent_crops_perennial,Other perennial vegetable or fruit
+Autre culture pérenne,3330000000,permanent_crops_perennial,Other perennial
+Miscanthus,3320201110,miscanthus_silvergrass,miscanthus
+Autre céréale de genre Phalaris,3320201100,canary_seed_canaryseed,Other cereal of the genus Phalaris
+Fléole de 5 ans ou moins,3320201090,timothy,Timothy 5 years or less
+Graminée pure exclusivement pour gazon ou pour production de semences certifiées,3320201070,sod_turf,Pure grass exclusively for turf or certified seed production
+Autre cereale de genre Setaria,3320201060,setaria,Other cereal of the genus Panicum
+Ray-grass de 5 ans ou moins,3320201050,lolium_ryegrass,Ryegrass 5 years or less
+Dactyle de 5 ans ou moins,3320201030,cocksfoot_catgrass,Dactylis Orchard grass 5 years or less
+Fétuque de 5 ans ou moins,3320201020,festuca_fescue,Fescue 5 years or less
+Brome de 5 ans ou moins,3320201010,elymus,Bromus grass 5 years or less
+Roselière (récolte de sagnes),3320201010,elymus,Reed beds (harvesting of reeds)
+Pâturin commun de 5 ans ou moins,3320201010,elymus,Other rough blue-grass 5 years or less
+Autre prairie temporaire de 5 ans ou moins,3320201000,poaceae_grasses,Other temporary grassland 5 years or less
+Autre graminée fourragère pure de 5 ans ou moins,3320201000,poaceae_grasses,Other pure forage grass 5 years or less
+Prairie en rotation longue (6 ans ou plus),3320100000,permanent_grassland,Long rotation meadow (6 years or more)
+Tubercule tropical,3319900000,other_arable_land_crops,Tropical tuber
+X-Felium de 5 ans ou moins,3319900000,other_arable_land_crops,X-Felium 5 years or younger type of forage
+Phacélie de 5 ans ou moins,3311300000,phacelia,Phacelia 5 years or less
+Surface agricole temporairement non exploitée,3311100000,fallow_land_not_crop,Temporarily unused agricultural area
+Jachère (terre arable),3311100000,fallow_land_not_crop,Fallow (arable land)
+Jachère noire,3311100000,fallow_land_not_crop,Black fallow
+Jachère de 5 ans ou moins,3311100000,fallow_land_not_crop,Fallow land 5 years or less
+Pensée,3310850000,viola,Viola tricolor
+Primevère,3310835000,primrose,Primrose
+Mauve,3310828000,malva,Mallow
+Marguerite,3310813000,daisy_daisies,Daisy
+Pâquerette,3310813000,daisy_daisies,Daisy
+Bleuet,3310810000,cornflowers,Cornflower
+Betterave non fourragère / Bette,3310719000,beta_vulgaris,Non-forage beet / Swiss chard
+Cresson,3310718000,cress,Cress
+Cresson alénois de 5 ans ou moins,3310718000,cress,Garden cress 5 years old or less
+Laitue / Batavia / Feuille de chêne,3310717990,other_salads_lettuce_leaf_vegetables,Lettuce / Batavia / Oak leaf
+Épinard,3310717070,spinach,Spinach
+Oseille,3310717060,sorrel,Sorrel
+Roquette,3310717050,rocket_arugula,Rocket
+Mâche,3310717040,lambs_lettuce_rapunzel,Lamb's lettuce
+Chicorée / Endive / Scarole,3310717010,chicory_chicories,Chicory / Endive / Escarole
+Poivron / Piment,3310716020,chili_pepper,Pepper / Chili
+Salsifis,3310715090,salsify,Salsify
+Rutabaga,3310715070,swede_rutabaga,Rutabaga
+Navet,3310715050,turnips,Turnip
+Navet fourrager,3310715050,turnips,Forage turnip
+Radis fourrager,3310715040,radish,Forage radish
+Radis,3310715040,radish,Radish
+Panais,3310715030,parsnips,Parsnip
+Carotte fourragère,3310715020,carrots_daucus,Forage carrot
+Carotte,3310715020,carrots_daucus,Carrot
+Bardane,3310715010,arctium_burdock,Burdock
+Tomate,3310714000,tomato,Tomato
+Tomate pour transformation,3310714000,tomato,Tomato for processing
+Artichaut ,3310713000,artichoke,Artichoke
+Aubergine,3310712000,aubergine_eggplant,Aubergine
+Céleri,3310711000,celery,Celery
+Oignon / Échalote,3310708040,onions,Onion / Shallot
+Poireau,3310708030,leek,Leek
+Aïl,3310708020,garlic,Garlic
+Ciboulette,3310708010,chives,Chive
+Moutarde,3310707010,mustard,Mustard
+Fenouil,3310704000,fennel,Fennel
+Sauge,3310703040,sage_chia,Sage
+Autre céréale de genre Fagopyrum,3310703020,buckwheat,Other cereal of the genus Fagopyrum
+Sarrasin,3310703020,buckwheat,Buckwheat
+Courgette / Citrouille,3310702060,zucchini_courgette,Zucchini / Pumpkin
+Pastèque,3310702050,watermelon,Watermelon
+Potiron / Potimarron,3310702040,pumpkin_squash_gourd,Pumpkin / Red kuri squash
+Courge musquée / Butternut,3310702040,pumpkin_squash_gourd,Butternut squash / Butternut
+Melon,3310702030,melon,Melon
+Concombre / Cornichon,3310702010,cucumber_pickle,Cucumber / Pickle
+Fraise,3310701000,strawberries,Strawberry
+Cameline,3310615000,camelina,Camelina
+Cumin,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,Cumin
+Plantain psyllium,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,Psyllium plantain
+Veronique,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,Veronique
+Sarriette,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,Summer savory
+Psyllium noir de Provence,3310612990,other_aromatic_medicinal_culinary_plants_spices_herbs,Provence black psyllium
+Chardon Marie,3310612400,marian_thistles,Milk thistle
+Valériane,3310612380,valerian,Valerian
+Thym,3310612370,thyme,Thyme
+Estragon,3310612360,tarragon,Tarragon
+Millepertuis,3310612340,st_johns_wort,St. John's Wort
+Romarin,3310612300,rosemary,Rosemary
+Persil,3310612270,parsley,Parsley
+Marjolaine / Origan,3310612260,oregano,Marjoram / Oregano
+Ortie,3310612250,nettles,Nettle
+Menthe,3310612220,mints_peppermint,Mint
+Mélisse,3310612200,lemon_balm_melissa,Lemon balm
+Lavande / Lavandin,3310612190,lavender_lavandula,Lavender / Lavandin
+Gaillet,3310612170,galium_bedstraw,Galium
+Coriandre,3310612150,coriander,Coriander
+Cerfeuil,3310612140,chervil,Chervil
+Camomille,3310612130,chamomile,Chamomile
+Carvi,3310612110,caraway,Caraway
+Bourrache de 5 ans ou moins,3310612090,borage,Borage 5 years or less
+Basilic,3310612070,basil,Basil
+Anis,3310612050,anise_aniseed,Anise
+Angélique,3310612040,angelica,Angelica
+Aneth,3310612030,anethum_dill,Dill
+"Autre plante à parfum, aromatique et médicinale annuelle",3310612000,aromatic_medicinal_culinary_plants_spices_herbs,"Other annual perfume, aromatic and medicinal plant"
+Plante médicinale,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,
+Plantes à parfum pérennes autres que lavande et lavandin,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,Perennial perfume plants other than lavender and lavandin
+Plantes médicinales et à parfum non pérennes (< 5 ans),3310612000,aromatic_medicinal_culinary_plants_spices_herbs,Non-perennial medicinal and perfume plants (< 5 years)
+Plante a parfum (autre que geranium et vetiver),3310612000,aromatic_medicinal_culinary_plants_spices_herbs,"Other annual perfume, aromatic and medicinal plant"
+Plantes médicinales pérennes (autres que arbres),3310612000,aromatic_medicinal_culinary_plants_spices_herbs,Perennial medicinal plants (other than trees)
+Plante aromatique pérenne non arbustive ou arborée autre que la vanille,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,Non-shrubby perennial aromatic plant other than vanilla
+Plantes aromatiques herbacées non pérennes (< 5 ans) autres que persil,3310612000,aromatic_medicinal_culinary_plants_spices_herbs,Non-perennial herbaceous aromatic plants (< 5 years) other than parsley
+"Autre plante à parfum, aromatique et médicinale pérenne",3310612000,aromatic_medicinal_culinary_plants_spices_herbs,"Other perennial perfume, aromatic and medicinal plants"
+Chanvre sans étiquette conforme,3310610000,hemp_cannabis,Hemp without conforming label
+Chanvre,3310610000,hemp_cannabis,Hemp
+Lin non textile d'hiver,3310607000,flax_linen,Winter non-textile linen
+Lin non textile de printemps,3310607000,flax_linen,Spring non-textile linen
+Œillette,3310606000,poppy,Oilseed poppy
+Nyger,3310604030,guizotia_abyssinica_nyger,Nyger
+Tournesol,3310604020,sunflower,Sunflower
+Autre oléagineux d'espèce Helianthus,3310604020,sunflower,Other oilseeds of the species Helianthus
+Navette d'été,3310604013,summer_rapeseed_rape,Summer rape
+Colza de printemps,3310604012,spring_rapeseed_rape,Spring rapeseed
+Colza d'hiver,3310604011,winter_rapeseed_rape,Winter rapeseed
+Navette d'hiver,3310604011,winter_rapeseed_rape,Winter rape
+Autre oléagineux d'hiver d'espèce Brassica rapa,3310604011,winter_rapeseed_rape,Other winter oilseeds of the species Brassica rapa
+Autre oléagineux d'hiver d'espèce Brassica napus,3310604011,winter_rapeseed_rape,Other winter oilseeds of the species Brassica napus
+Houblon,3310602000,hops,Hop
+Tabac,3310601000,tobacco,Tobacco
+Pomme de terre féculière,3310300000,potatoes,Starch potato
+Pomme de terre de consommation,3310300000,potatoes,Potato for consumption
+Lotier,3310202990,other_legumes_harvested_green,Trefoil
+Sainfoin implanté pour la récolte 2018,3310202060,onobrychis_sainfoins,Sainfoin planted for the 2018 harvest
+Sainfoin implanté pour la récolte 2017,3310202060,onobrychis_sainfoins,Sainfoin planted for the 2017 harvest
+Autre sainfoin,3310202060,onobrychis_sainfoins,Other sainfoin
+Sainfoin implante pour la recolte 2015,3310202060,onobrychis_sainfoins,Sainfoin planted for the 2015 harvest
+Sainfoin implanté pour la récolte 2016,3310202060,onobrychis_sainfoins,Sainfoin planted for the 2016 harvest
+Sainfoin déshydraté,3310202060,onobrychis_sainfoins,Dehydrated Sainfoin
+Vesce implantée pour la récolte 2016,3310202050,vetches,Vetch planted for the 2016 harvest
+Autre vesce,3310202050,vetches,Other vetch
+Vesce implantee pour la recolte 2015,3310202050,vetches,Vetch planted for the 2015 harvest
+Vesce implantée pour la récolte 2018,3310202050,vetches,Vetch planted for the 2018 harvest
+Gesse,3310202050,vetches,Chickling vetch
+Jarosse déshydratée,3310202050,vetches,Dryied Jarosse
+Vesce déshydratée,3310202050,vetches,Dehydrated vetch
+Jarosse implantee pour la recolte 2015,3310202050,vetches,Jarosse planted for the 2015 harvest
+Autre jarosse,3310202050,vetches,Other jarosse
+Vesce implantée pour la récolte 2017,3310202050,vetches,Vetch planted for the 2017 harvest
+Autre mélilot,3310202040,melilot,Other sweet clover
+Mélilot déshydraté,3310202040,melilot,Dehydrated melilot
+Melilot implante pour la recolte 2015,3310202040,melilot,Melilot planted for the 2015 harvest
+Mélilot implanté pour la récolte 2017,3310202040,melilot,Melilot planted for the 2017 harvest
+Mélilot implanté pour la récolte 2016,3310202040,melilot,Melilot planted for the 2016 harvest
+Mélilot implanté pour la récolte 2018,3310202040,melilot,Melilot planted for the 2018 harvest
+Autre trèfle,3310202030,clover,Other clover
+Trèfle implanté pour la récolte 2016,3310202030,clover,Clover planted for the 2016 harvest
+Trèfle implanté pour la récolte 2018,3310202030,clover,Clover planted for the 2018 harvest
+Trèfle implante pour la recolte 2015,3310202030,clover,Clover planted for the 2015 harvest
+Trèfle implanté pour la récolte 2017,3310202030,clover,Clover planted for the 2017 harvest
+Minette implanté pour la récolte 2018,3310202030,clover,Hop clover Medicago planted for the 2018 harvest
+Trèfle déshydraté,3310202030,clover,Dehydrated clover
+Minette,3310202030,clover,Hop clover Medicago
+Minette implanté pour la récolte 2017,3310202030,clover,Hop clover Medicago planted for the 2017 harvest
+Serradelle implantée pour la récolte 2016,3310202020,serradella,Serradella planted for the 2016 harvest
+Serradelle implantee pour la recolte 2015,3310202020,serradella,Serradella planted for the 2015 harvest
+Serradelle implantée pour la récolte 2017,3310202020,serradella,Serradelle planted for the 2017 harvest
+Serradelle implantée pour la récolte 2018,3310202020,serradella,Serradella planted for the 2018 harvest
+Autre serradelle,3310202020,serradella,Other Serradella
+Luzerne implantee pour la recolte 2015,3310202010,alfalfa_lucerne,Alfalfa planted for the 2016 harvest
+Luzerne implantée pour la récolte 2017,3310202010,alfalfa_lucerne,Alfalfa planted for the 2017 harvest
+Luzerne déshydratée,3310202010,alfalfa_lucerne,Dehydrated alfalfa
+Autre luzerne,3310202010,alfalfa_lucerne,Other alfalfa
+Luzerne implantée pour la récolte 2016,3310202010,alfalfa_lucerne,Alfalfa planted for the 2016 harvest
+Luzerne implantée pour la récolte 2018,3310202010,alfalfa_lucerne,Alfalfa planted for the 2018 harvest
+Dolique,3310201010,beans,hyacinth beans
+Autre lupin fourrager de printemps,3310201090,lupins,Other spring forage lupine
+Autre lupin fourrager d'hiver,3310201090,lupins,Other winter forage lupine
+Lupin fourrager d'hiver implanté pour la récolte 2017,3310201090,lupins,Winter forage lupin planted for the 2017 harvest
+Lupin fourrager de printemps implanté pour la récolte 2016,3310201090,lupins,Spring forage lupine planted for the 2016 harvest
+Lupin fourrager d'hiver implanté pour la récolte 2016,3310201090,lupins,Winter forage lupine planted for the 2016 harvest
+Lupin fourrager de printemps implanté pour la récolte 2018,3310201090,lupins,Spring forage lupin planted for 2018 harvest
+Lupin doux de printemps semé avant le 31/05,3310201090,lupins,Sweet spring lupine sown before 31 May
+Lupin fourrager de printemps implanté pour la récolte 2017,3310201090,lupins,Spring forage lupin planted for 2017 harvest
+Lupin fourrager de printemps implante pour la recolte 2015,3310201090,lupins,Spring forage lupine planted for the 2015 harvest
+Lupin fourrager d'hiver implante pour la recolte 2015,3310201090,lupins,Winter forage lupine planted for the 2016 harvest
+Lupin fourrager d'hiver implanté pour la récolte 2018,3310201090,lupins,Winter forage lupin planted for the 2018 harvest
+Lupin doux de printemps semé tardivement (après le 31/05),3310201090,lupins,Sweet spring lupine sown after 31 May
+Lupin doux d'hiver,3310201090,lupins,Sweet winter lupine
+Petits pois,3310201080,peas,Green peas
+Pois fourrager d'hiver implante pour la recolte 2015,3310201080,peas,Winter fodder peas planted for the 2015 harvest
+Pois d'hiver,3310201080,peas,Winter peas
+Cornille,3310201080,peas,Cowpea
+Pois fourrager de printemps implanté pour la récolte 2016,3310201080,peas,Spring fodder pea planted for the 2016 harvest
+Pois de printemps semé avant le 31/05,3310201080,peas,Spring peas sown before 31 May
+Pois fourrager de printemps implanté pour la récolte 2017,3310201080,peas,Spring fodder pea planted for the 2017 harvest
+Pois fourrager de printemps implanté pour la récolte 2018,3310201080,peas,Spring Fodder Pea planted for the 2018 harvest
+Autre pois fourrager d'hiver,3310201080,peas,Other winter feed peas
+Autre pois fourrager de printemps,3310201080,peas,Other spring feed peas
+Pois de printemps seme tardivement (apres le 31/05),3310201080,peas,Spring peas sown after 31 May
+Pois fourrager d'hiver implanté pour la récolte 2018,3310201080,peas,Winter fodder pea planted for the 2018 harvest
+Pois fourrager d'hiver implanté pour la récolte 2017,3310201080,peas,Winter fodder pea planted for the 2017 harvest
+Pois fourrager de printemps implanté pour la récolte 2015,3310201080,peas,Chickling vetchplanted for the 2015 harvest
+Pois fourrager d'hiver implanté pour la récolte 2016,3310201080,peas,Winter fodder peas planted for the 2016 harvest
+Lentille fourragère,3310201070,lentils,Forage lentil
+Lentille cultivée (non fourragère),3310201070,lentils,Cultivated lentil (not fodder)
+Fenugrec,3310201060,fenugreek,Fenugreek
+Pois chiche,3310201040,chickpeas,Chickpea
+Soja,3310201030,soy_soybeans,Soy
+Arachide ,3310201020,peanuts,Peanut
+Féverole semée avant le 31/05,3310201010,beans,Faba bean sown before 31 May
+Féverole fourragère implantée pour la récolte 2017,3310201010,beans,Feed faba bean planted for the 2017 harvest
+Féverole fourragère implantée pour la récolte 2016,3310201010,beans,Fodder faba bean implanted for the 2016 harvest
+Féverole fourragère implantée pour la récolte 2018,3310201010,beans,Faba bean planted for the 2018 harvest
+Féverole de printemps,3310201010,beans,Spring beans
+Feverole fourragere implantee pour la recolte 2015,3310201010,beans,Fodder faba bean implanted for the 2015 harvest
+Feverole semee tardivement (apres le 31/05),3310201010,beans,Faba bean sown after 31 May
+Autre féverole fourragère,3310201010,beans,Other fodder bean
+Haricot / Flageolet,3310201010,beans,Bean / Flageolet
+Fève,3310201010,beans,Faba bean
+Pois et haricot secs (alimentation humaine),3310200000,legumes,Dry peas and beans (human consumption)
+Pois et haricot frais (alimentation humaine),3310200000,legumes,Fresh peas and beans (human food)
+Autre mélange de plantes fixant l'azote,3310200000,legumes,Other mixture of nitrogen fixing plants
+Mélange de protéagineux (pois et/ou lupin et/ou féverole) prépondérants semés avant le 31/05 et de céréales,3310200000,legumes,Mixture of predominantly protein crops (peas and / or lupine and / or faba bean) sown before 31 May and cereals
+Mélange de protéagineux (pois et/ou lupin et/ou féverole) prépondérants semés avant le 31/05 et de céréales,3310200000,legumes,Mixture of predominantly protein crops (peas and / or lupine and / or faba bean) sown before 31 May and cereals
+Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2015 et d'herbacees ou de graminees fourrageres,3310200000,legumes,Mixture of forage legumes predominant at seeding planted for the 2015 harvest and herbaceous or forage grasses
+Autre protéagineux d'un autre genre,3310200000,legumes,Other protein crop of another type
+Melange de legumineuses fourrageres,3310200000,legumes,Mixture of forage legumes
+Melange de legumineuses fourrageres,3310200000,legumes,Mixture of forage legumes
+Melange de legumineuses fourrageres,3310200000,legumes,Mixture of forage legumes
+Melange de legumineuses fourrageres,3310200000,legumes,Mixture of forage legumes
+Mélange de protéagineux semés tardivement (après le 31/05),3310200000,legumes,
+Melange de legumineuses fourrageres implantees pour la recolte 2015 (entre elles),3310200000,legumes,Mixture of forage legumes implanted for the 2015 harvest (among themselves)
+Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2016 et d'herbacees ou de graminees fourrageres,3310200000,legumes,Mixture of forage legumes predominant at seeding planted for the 2016 harvest and herbaceous or forage grasses
+Melange de legumineuses fourrageres preponderantes au semis implantees pour la recolte 2015 et de cereales,3310200000,legumes,Mixture of predominantly forage legumes planted for the 2015 harvest and cereals
+Mélange de céréales ou pseudo-céréales de printemps entre elles,3310198002,spring_unspecified_cereals,Mixture of spring cereals or pseudo-cereals
+Autre oléagineux de printemps d'espèce Brassica napus,3310198002,spring_unspecified_cereals,Other Brassica napus spring oilseeds
+Autre céréale d'un autre genre,3310198001,winter_unspecified_cereals,Other cereal of a different type
+Autre céréale d'hiver de genre Avena,3310198001,winter_unspecified_cereals,Other winter cereal of the genus Avena
+Autre céréale ou pseudo-céréale secondaire d'hiver,3310198001,winter_unspecified_cereals,Other secondary winter cereal or pseudo-cereal
+Sorgho,3310116000,sorghum,Sorghum
+Épeautre,3310110000,spelt,Spelt
+Millet,3310109000,millet,Millet
+Moha,3310109000,millet,Foxtail millet
+Autre céréale de printemps de genre Triticum,3310108002,spring_triticale,Other spring cereal of the genus Triticum
+Triticale de printemps,3310108002,spring_triticale,Spring triticale
+Triticale d'hiver,3310108001,winter_triticale,Winter triticale
+Autre céréale d'hiver de genre Triticum,3310108001,winter_triticale,Other winter cereal of the genus Triticum
+Riz,3310107000,rice,Rice
+Maïs doux,3310106000,maize_corn_popcorn,Sweet corn
+Autre céréale de printemps de genre Zea,3310106000,maize_corn_popcorn,Other spring cereal of the genus Zea
+Maïs,3310106000,maize_corn_popcorn,Maize
+Avoine de printemps,3310105002,spring_oats,Spring oats
+Autre céréale de printemps de genre Avena,3310105002,spring_oats,Other spring cereal of the genus Avena
+Avoine d'hiver,3310105001,winter_oats,Winter oats
+Autre céréale de printemps de genre Hordeum,3310104002,spring_barley,Other spring cereal of the genus Hordeum
+Orge de printemps,3310104002,spring_barley,Spring barley
+Orge d'hiver,3310104001,winter_barley,Winter barley
+Autre céréale d'hiver de genre Hordeum,3310104001,winter_barley,Other winter cereal of the genus Hordeum
+Seigle de printemps,3310103002,spring_rye,Spring rye
+Autre céréale de printemps de genre Secale,3310103002,spring_rye,Other spring cereal of the genus Secale
+Seigle d'hiver,3310103001,winter_rye,Winter rye
+Autre céréale d'hiver de genre Secale,3310103001,winter_rye,Other Secale winter cereal
+Blé dur de printemps semé tardivement (après le 31/05),3310102002,spring_durum_hard_wheat,Durum spring wheat late sown (after 31/05)
+Blé dur de printemps,3310102002,spring_durum_hard_wheat,Durum spring wheat
+Blé dur d'hiver,3310102001,winter_durum_hard_wheat,Hard winter wheat
+Blé tendre de printemps,3310101002,spring_common_soft_wheat,Soft spring wheat
+Blé tendre d'hiver,3310101001,winter_common_soft_wheat,Soft winter wheat
+Mélange de céréales,3310100000,cereal,Mix of cereals
+Fourrage composé de céréales et/ou de protéagineux (en proportion < 50%) et/ou de légumineuses fourragères (en proportion < 50%),3310100000,cereal,Fodder composed of cereals and / or protein crops (in proportion <50%) and / or fodder legumes (in proportion <50%)
+Cultures conduites en interrangs : 3 cultures représentant chacune plus de 25%,3310000000,arable_crops,Crops managed in inter-rows: 3 crops representing each more than 25%
+"Autre plante fourragère annuelle (ni légumineuse, ni graminée, ni céréale, ni oléagineux)",3310000000,arable_crops,"Other annual fodder plant (neither legume, nor grass, nor cereal, nor oilseed)"
+Autre fourrage annuel d'un autre genre,3310000000,arable_crops,Other annual fodder of a different type
+Cultures conduites en interrangs : 2 cultures représentant chacune plus de 25%,3310000000,arable_crops,Inter-row cultivation: 2 crops each representing more than 25% of the total
+Surface pastorale - herbe prédominante et ressources fourragères ligneuses présentes,3320000000,grassland_grass,Pastoral area - predominantly grass and woody forage resources present
+Horticulture ornementale de plein champ,3310800000,flowers_ornamental_plants,Field ornamental horticulture
+Lotier implanté pour la récolte 2018,3310202990,other_legumes_harvested_green,Trefoil planted for the 2018 harvest
+Surface pastorale - ressources fourragères ligneuses prédominantes,3360000000,tree_wood_forest,Pastoral area - predominant woody fodder resources
+Lotier implanté pour la récolte 2017,3310202990,other_legumes_harvested_green,Trefoil planted for the 2017 harvest
+Maraîchage diversifié (plusieurs espèces de fruits et légumes majoritairement non pérennes),3310700000,fresh_vegetables,"Diversified market gardening (several species of fruits and vegetables, mainly non-perennial)"
+Autre oléagineux de printemps d'espèce Brassica rapa,3310604012,spring_rapeseed_rape,Other Brassica rapa spring oilseeds
+Autre céréale de genre Sorghum,3310116000,sorghum,Other cereal of the genus Sorghum
+Betterave fourragère,3310719020,mangelwurzel_beets,Fodder beet
+Lin fibres,3310607000,flax_linseed,Linen fibers
+Jarosse implantée pour la récolte 2018,3310202050,vetches,vetch/red pea  vetchplanted for the 2018 harvest
+Surface pastorale ou parcours non utilisé l'année en cours,3320000000,grassland_grass,Pasture or rangeland not used in current year
+Chou,3310707000,brassicaceae_cruciferae,Cabbage
+Mélange d'oléagineux,3310604000,oilseed_crops,Oilseed blend
+Chou fourrager,3310707000,brassicaceae_cruciferae,Forage cabbage
+Mélange de légumineuses prépondérantes au semis et de graminées fourragères de 5 ans ou moins,3310200000,legumes,Mixture of legumes predominantly at seed and forage grasses 5 years or less
+Mélange de légumineuses fourragères implantées pour la récolte 2017,3310200000,legumes,Fodder legume mixture planted for the 2017 harvest
+"Culture pérenne à forte biomasse (miscanthus, switchgrass, silphie, canne fourragère, …)",3310617000,energy_crops,"Perennial crop with high biomass (miscanthus, switchgrass, silphia, fodder cane, etc.)"
+Jarosse implantée pour la récolte 2017,3310202050,vetches,vetch/red pea  planted for the 2017 harvest
+Mélange de légumineuses fourragères implantées pour la récolte 2018,3310200000,legumes,Fodder legume mixture planted for the 2018 harvest
+Prairie permanente - herbe prédominante (ressources fourragères ligneuses absentes ou peu présentes),3320000000,grassland_grass,Permanent pasture - predominantly grass (woody fodder resources absent or scarce)
+Topinambour,3310705000,topinambur_jerusalem_artichoke,Jerusalem artichoke
+Mélange de légumineuses fourragères prépondérantes au semis implantées pour la récolte 2016 et de céréales,3310200000,legumes,Mixture of predominantly forage legumes planted for the 2016 harvest and cereals
+Autre céréale de genre Panicum,3310109000,millet,Other cereal of the genus Panicum (millet)
+Autre oléagineux d'un autre genre,3310604000,oilseed_crops,Other oilseeds of a different type
+Bois pâturé,3360000000,tree_wood_forest,Grazed wood
+Mélange de légumineuses fourragères prépondérantes implantées pour la récolte 2018 et de céréales et/ou d'oléagineux,3310200000,legumes,Mixture of predominantly forage legumes planted for the 2018 harvest and cereals and/or oilseeds
+Bugle rampante,3310899000,other_flowers_ornamental_plants,Ajuga reptans
+Mélange de légumineuses fourragères implantées pour la récolte 2016 (entre elles),3310200000,legumes,Mixture of forage legumes implanted for the 2016 harvest (among themselves)
+Mélange de légumineuses fourragères prépondérantes implantées pour la récolte 2017 et de céréales et/ou d'oléagineux,3310200000,legumes,Mixture of predominantly forage legumes planted for the 2017 harvest and cereals and/or oilseeds
+Mélange de légumineuses déshydratées (entre elles),3310201000,legumes_dried_pulses_protein_crops,Mixture of dehydrated legumes (among themselves)
+Autre plante fourragère sarclée d'un autre genre,3310715000,root_vegetables,Another root fodder plant of another type
+Autre légume ou fruit annuel,3310700000,fresh_vegetables,Other vegetables or annual fruits
+Jarosse implantée pour la récolte 2016,3310202050,vetches,vetch/red pea planted for the 2016 harvest
+Maïs ensilage,3310106000,maize_corn_popcorn,Silage Maize
